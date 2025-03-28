@@ -14,3 +14,4 @@ I'm Flyzar, I'm a Furry Developper
 |Project|Card|
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Furry Dex](https://discord.gg/g6dkwg2Fbv)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurryDex&repo=FurryDex-Bot&theme=tokyonight)](https://github.com/FurryDex/FurryDex-Bot)|
+|[Crowdin to Discord API]([https://discord.gg/g6dkwg2Fbv](https://github.com/flyzar73/Crowdin-to-Discord-API))|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyzar73&repo=Crowdin-to-Discord-API&theme=tokyonight)]([https://github.com/FurryDex/FurryDex-Bot](https://github.com/flyzar73/Crowdin-to-Discord-API))|
