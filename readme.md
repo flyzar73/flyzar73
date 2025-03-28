@@ -6,7 +6,7 @@ I'm Flyzar, I'm a Furry Developper
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyzar73&layout=compact&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=flyzar73&theme=tokyonight)]
+![trophy](https://github-profile-trophy.vercel.app/?username=flyzar73&theme=tokyonight)
 
 ### Current Projects
 > **Updated on Marsh 28th, 2025**
