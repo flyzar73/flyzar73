@@ -11,7 +11,7 @@ I'm Flyzar, I'm a Furry Developper
 ### Current Projects
 > **Updated on Marsh 28th, 2025**
 
-|Project|Card|
-|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|[Furry Dex](https://discord.gg/g6dkwg2Fbv)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurryDex&repo=FurryDex-Bot&theme=tokyonight)](https://github.com/FurryDex/FurryDex-Bot)|
-|[Crowdin to Discord API](https://github.com/flyzar73/Crowdin-to-Discord-API)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyzar73&repo=Crowdin-to-Discord-API&theme=tokyonight)]([https://github.com/FurryDex/FurryDex-Bot](https://github.com/flyzar73/Crowdin-to-Discord-API))|
+|Project|Card|Discord Server|
+|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|[Furry Dex](https://discord.gg/g6dkwg2Fbv)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurryDex&repo=FurryDex-Bot&theme=tokyonight)](https://github.com/FurryDex/FurryDex-Bot)|![DiscordServer](https://discord.com/widget?id=1235970684556021890&theme=dark)|
+|[Crowdin to Discord API](https://github.com/flyzar73/Crowdin-to-Discord-API)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyzar73&repo=Crowdin-to-Discord-API&theme=tokyonight)]([https://github.com/FurryDex/FurryDex-Bot](https://github.com/flyzar73/Crowdin-to-Discord-API))||
