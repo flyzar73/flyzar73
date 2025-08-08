@@ -9,9 +9,10 @@ I'm Flyzar, I'm a Furry Developper
 ![trophy](https://github-profile-trophy.vercel.app/?username=flyzar73&theme=tokyonight)
 
 ### Current Projects
-> **Updated on Marsh 28th, 2025**
+> **Updated on August 08th, 2025**
 
 |Project|Card|
 |:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |[Furry Dex](https://discord.gg/g6dkwg2Fbv)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurryDex&repo=FurryDex-Bot&theme=tokyonight)](https://github.com/FurryDex/FurryDex-Bot)|
+|[MTR France Addon]([https://discord.gg/g6dkwg2Fbv](https://github.com/Noob-at-everything/MTR-France-Addon))|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noob-at-everything&repo=MTR-France-Addon&theme=tokyonight)](https://github.com/Noob-at-everything/MTR-France-Addon)|
 |[Crowdin to Discord API](https://github.com/flyzar73/Crowdin-to-Discord-API)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flyzar73&repo=Crowdin-to-Discord-API&theme=tokyonight)]([https://github.com/FurryDex/FurryDex-Bot](https://github.com/flyzar73/Crowdin-to-Discord-API))|
